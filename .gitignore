@@ -130,4 +130,4 @@ dmypy.json
 
 #MAC FILES
 .csv
-.DS.store
+.DS_Store
